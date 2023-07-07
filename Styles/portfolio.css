@@ -19,6 +19,7 @@ body{
 nav{
     display: flex;
     justify-content: space-between;
+    margin: 0 200px;
     
 }
 nav ul {
@@ -45,4 +46,20 @@ nav ul li a {
     font-size: 45px;
     font-weight: 800;
     
+}
+
+/* header realte style */
+
+header{
+    background: #FFF8F3;
+}
+
+
+.banner_texts{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner_texts img{
+    width: 584px;
 }
